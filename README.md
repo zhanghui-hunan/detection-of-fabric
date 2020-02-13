@@ -10,7 +10,7 @@
 
 
 ### Installation
->> <br> Please run setup.py for installation and dataset preparation. 
+>>  Please run setup.py for installation and dataset preparation. 
 
 ## Run
 use the following command to test a dataset.
